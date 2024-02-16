@@ -6,8 +6,10 @@ Für dieses Projekt werden wir versuchen K Means Clustering zu verwenden, um Uni
 Normalerweise verwendet man den K Means Clustering Algorithmus für Daten, deren Zugehörigkeit zu einem Cluster man nicht kennt. In diesem Fall verwenden wir die Zuteilung, um beurteilen zu können, wie gut der Algorithmus performt. Da das in echten Anwendungen nicht möglich ist sind Confusion Matrix und Classification Report am Ende des Projekts nur theoretische Auswertungen.
 
 # Ausführung
+Um dieses Jupyter Notebook erfolgreich auszuführen, öffnen Sie den untenstehenden Binder Bagde Link. Folgen Sie den Anweisungen innerhalb des Notebooks, um die Daten zu laden, vorzuverarbeiten, die Modelle zu trainieren und die Ergebnisse zu evaluieren.
 
 # Erwartete Ergebnisse
+Wenn das Jupyter Notebook erfolgreich ausgeführt wird, werden die Daten geladen. Insgesamt werden fünf Diagramme angezeigt. Darüber hinaus wird ein K-Means-Modell mit 2 Clustern erstellt.
 
 # Binder Badge
 Dieses Projekt auf Binder ausführen: 
