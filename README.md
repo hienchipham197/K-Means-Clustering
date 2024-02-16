@@ -12,4 +12,4 @@ Um dieses Jupyter Notebook erfolgreich auszuführen, öffnen Sie den untenstehen
 Wenn das Jupyter Notebook erfolgreich ausgeführt wird, werden die Daten geladen. Insgesamt werden fünf Diagramme angezeigt. Darüber hinaus wird ein K-Means-Modell mit 2 Clustern erstellt.
 
 # Binder Badge
-Dieses Projekt auf Binder ausführen: 
+Dieses Projekt auf Binder ausführen: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hienchipham197/K-Means-Clustering/HEAD)
